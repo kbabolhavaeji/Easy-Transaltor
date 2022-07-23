@@ -1,7 +1,7 @@
 {
     "name": "kiumars-babolhavaeji/simple-php-translator",
     "description": "a package for translate names from a web resource",
-    "license": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "Kiumars Babolhavaeji",
