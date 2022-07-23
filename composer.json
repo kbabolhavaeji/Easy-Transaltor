@@ -1,0 +1,28 @@
+{
+    "name": "kiumars-babolhavaeji/php-simple-translator",
+    "description": "a package for translate names from a web resource",
+    "license": "",
+    "authors": [
+        {
+            "name": "Kiumars Babolhavaeji",
+            "email": "k.babolhavaeji@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "SimpleTranslator\\": "src"
+        },
+        "files": []
+    },
+    "require": {
+        "ext-json": "*"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "SimpleTranslator\\SimpleTranslatorProvider"
+            ]
+        }
+    }
+}
