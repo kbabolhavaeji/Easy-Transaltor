@@ -3,6 +3,6 @@ simple php translator package which is help you to translate names and title on 
 
 # installation
 this package is available on github and packagist, so for install and use this package you just need to install it by composer :
-<code>composer require kbabolhavaeji/simple-php-translator</code>
+<code>composer require kiumars-babolhavaeji/simple-php-translator</code>
 
 
